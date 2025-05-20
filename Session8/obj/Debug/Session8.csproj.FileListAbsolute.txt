@@ -1,0 +1,14 @@
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.frmLottery.resources
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session8\bin\Debug\Session8.exe.config
+C:\Users\IanGametion\source\repos\Session8\bin\Debug\Session8.exe
+C:\Users\IanGametion\source\repos\Session8\bin\Debug\Session8.pdb
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.exe
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.pdb
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.frmArrayArgument.resources
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.frmTestAverage.resources
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.g.resources
+C:\Users\IanGametion\source\repos\Session8\obj\Debug\Session8.frmSeatChart.resources

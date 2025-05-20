@@ -1,0 +1,11 @@
+C:\Users\IanGametion\source\repos\Session7\bin\Debug\Session7.exe.config
+C:\Users\IanGametion\source\repos\Session7\bin\Debug\Session7.exe
+C:\Users\IanGametion\source\repos\Session7\bin\Debug\Session7.pdb
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.frmLights.resources
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.exe
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.pdb
+C:\Users\IanGametion\source\repos\Session7\obj\Debug\Session7.frmPrime.resources
