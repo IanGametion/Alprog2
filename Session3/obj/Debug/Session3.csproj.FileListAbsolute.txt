@@ -1,0 +1,12 @@
+C:\Users\IanGametion\source\repos\Session3\bin\Debug\Session3.exe.config
+C:\Users\IanGametion\source\repos\Session3\bin\Debug\Session3.exe
+C:\Users\IanGametion\source\repos\Session3\bin\Debug\Session3.pdb
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.frmInputData.resources
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.exe
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.pdb
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.frmVariable.resources
+C:\Users\IanGametion\source\repos\Session3\obj\Debug\Session3.frmTestAverage.resources
