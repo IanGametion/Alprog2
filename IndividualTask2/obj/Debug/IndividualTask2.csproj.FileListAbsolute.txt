@@ -1,0 +1,10 @@
+C:\Users\IanGametion\source\repos\IndividualTask2\bin\Debug\IndividualTask2.exe.config
+C:\Users\IanGametion\source\repos\IndividualTask2\bin\Debug\IndividualTask2.exe
+C:\Users\IanGametion\source\repos\IndividualTask2\bin\Debug\IndividualTask2.pdb
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.frmNIMformat.resources
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.exe
+C:\Users\IanGametion\source\repos\IndividualTask2\obj\Debug\IndividualTask2.pdb

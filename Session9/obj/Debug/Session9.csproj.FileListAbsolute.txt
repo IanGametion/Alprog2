@@ -1,0 +1,11 @@
+C:\Users\IanGametion\source\repos\Session9\bin\Debug\Session9.exe.config
+C:\Users\IanGametion\source\repos\Session9\bin\Debug\Session9.exe
+C:\Users\IanGametion\source\repos\Session9\bin\Debug\Session9.pdb
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.frmPasswordChecker.resources
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.exe
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.pdb
+C:\Users\IanGametion\source\repos\Session9\obj\Debug\Session9.frmTelephoneForm.resources
