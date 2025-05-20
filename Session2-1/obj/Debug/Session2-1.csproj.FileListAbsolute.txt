@@ -1,0 +1,10 @@
+C:\Users\IanGametion\source\repos\Session2-1\bin\Debug\Session2-1.exe.config
+C:\Users\IanGametion\source\repos\Session2-1\bin\Debug\Session2-1.exe
+C:\Users\IanGametion\source\repos\Session2-1\bin\Debug\Session2-1.pdb
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2-1.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2_1.frmHelloWorld.resources
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2_1.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2-1.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2-1.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2-1.exe
+C:\Users\IanGametion\source\repos\Session2-1\obj\Debug\Session2-1.pdb
