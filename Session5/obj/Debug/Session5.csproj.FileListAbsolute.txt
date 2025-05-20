@@ -1,0 +1,12 @@
+C:\Users\IanGametion\source\repos\Session5\bin\Debug\Session5.exe.config
+C:\Users\IanGametion\source\repos\Session5\bin\Debug\Session5.exe
+C:\Users\IanGametion\source\repos\Session5\bin\Debug\Session5.pdb
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.exe
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.pdb
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.frmTimeZone.resources
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.frmEndBal.resources
+C:\Users\IanGametion\source\repos\Session5\obj\Debug\Session5.frmSpeedConv.resources
