@@ -1,0 +1,14 @@
+C:\Users\IanGametion\source\repos\Session4-1\bin\Debug\Session4-1.exe.config
+C:\Users\IanGametion\source\repos\Session4-1\bin\Debug\Session4-1.exe
+C:\Users\IanGametion\source\repos\Session4-1\bin\Debug\Session4-1.pdb
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4.csproj.AssemblyReference.cache
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.frmPayroll.resources
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.Properties.Resources.resources
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4.csproj.GenerateResource.cache
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4.csproj.CoreCompileInputs.cache
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4-1.exe
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4-1.pdb
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.frmLoanQualifier.resources
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.frmCompareString.resources
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.frmFuelEconomy.resources
+C:\Users\IanGametion\source\repos\Session4-1\obj\Debug\Session4_1.frmColorTheme.resources
